@@ -46,8 +46,10 @@ Se possivel fornecer informações para varias plataformar: Windows, MacOs e Lin
 
 ###Meta
 Thiago Costa - [@ThiagoCostaD](https://twitter.com/CostaThiagoD)
+
 thiagoocdiniz@gmail.com
 
 Distribuido sobre a licença.
 Veja `LICENÇA` para mais informações.
+
 [https://github.com/ThiagoCostaD/git1](https://github.com/ThiagoCostaD)
