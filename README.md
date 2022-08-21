@@ -45,6 +45,7 @@ Se possivel fornecer informações para varias plataformar: Windows, MacOs e Lin
     * Projeto Inicial
 
 ###Meta
+
 Thiago Costa - [@ThiagoCostaD](https://twitter.com/CostaThiagoD)
 
 thiagoocdiniz@gmail.com
